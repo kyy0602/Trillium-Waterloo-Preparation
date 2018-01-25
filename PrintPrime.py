@@ -14,10 +14,8 @@ def IsPrime(m):
         else:
             f = 1
     if f == 0:
-        # print("N")
         return 0
     else:
-        # print("Y")
         return 1
 
 
